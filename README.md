@@ -27,7 +27,9 @@ TaskNova is a cross-platform task management application built with Flutter and 
 
 ### Login Screen
 
-![Login Screen](screenshots/login.jpeg)
+<p align="center">
+  <img src="screenshots/login.jpeg" width="250">
+</p>
 
 ### Dashboard
 
@@ -39,7 +41,9 @@ TaskNova is a cross-platform task management application built with Flutter and 
 
 ### Add Task Screen
 
-![Add Task Screen](screenshots/add_task.jpeg)
+<p align="center">
+  <img src="screenshots/add_task.jpeg" width="250">
+</p>
 
 ## 🛠️ Tech Stack
 
