@@ -25,7 +25,7 @@ TaskNova is a cross-platform task management application built with Flutter and 
 ## 🎨 App Icon
 
 <p align="center">
-  <img src="C:\coding\Flutter Projects\tasknova\assets\images\tasknova_icon.png" width="180">
+  <img src="assets\images\tasknova_icon.png" width="200">
 </p>
 
 TaskNova features a custom minimalistic app icon inspired by productivity and task completion.
