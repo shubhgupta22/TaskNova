@@ -14,7 +14,6 @@ TaskNova is a cross-platform task management application built with Flutter and 
 
 * 🔐 User Authentication with Firebase Auth
 * ➕ Create New Tasks
-* ✏️ Update Existing Tasks
 * 🗑️ Delete Tasks
 * ✅ Mark Tasks as Completed
 * ⭐ Task Priority Management
@@ -22,6 +21,14 @@ TaskNova is a cross-platform task management application built with Flutter and 
 * ☁️ Real-Time Data Storage with Cloud Firestore
 * 📱 Responsive Flutter UI
 * 🔄 Instant Task Synchronization
+
+## 🎨 App Icon
+
+<p align="center">
+  <img src="screenshots/tasknova_icon.png" width="180">
+</p>
+
+TaskNova features a custom minimalistic app icon inspired by productivity and task completion.
 
 ## 📸 Screenshots
 
