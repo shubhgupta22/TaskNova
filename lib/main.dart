@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
-import 'features/auth/login_screen.dart';
+import 'features/auth/auth_wrapper.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -48,7 +48,7 @@ class TaskNovaApp extends StatelessWidget {
           ),
         ),
       ),
-      home: LoginScreen(),
+      home: const AuthWrapper(),
     );
   }
 }

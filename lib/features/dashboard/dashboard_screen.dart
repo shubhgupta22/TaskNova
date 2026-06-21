@@ -16,9 +16,6 @@ class DashboardScreen extends StatelessWidget {
           IconButton(
             onPressed: () async {
               await FirebaseAuth.instance.signOut();
-              if (context.mounted) {
-                Navigator.pop(context);
-              }
             },
             icon: const Icon(Icons.logout),
           ),
